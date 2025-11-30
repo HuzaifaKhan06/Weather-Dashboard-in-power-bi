@@ -60,4 +60,4 @@ End-to-end Business Intelligence and Data Analysis workflow
 #APIIntegration #PowerQuery #DataModeling #DataVisualization #LearningJourney
 ## 📊 Dashboard Preview
 
-![Weather-Dashboard-in-power-bi](https://github.com/HuzaifaKhan06/Heart-Disease-Analysis-Dashboard/blob/main/Heart%20Disease%20Analysis.png)
+![Weather-Dashboard-in-power-bi]([https://github.com/HuzaifaKhan06/Heart-Disease-Analysis-Dashboard/blob/main/Heart%20Disease%20Analysis.png](https://github.com/HuzaifaKhan06/Weather-Dashboard-in-power-bi/blob/main/WeatherDashboard.png))
